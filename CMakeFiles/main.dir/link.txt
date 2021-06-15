@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ CMakeFiles/main.dir/glad.c.o CMakeFiles/main.dir/Canvas.cpp.o CMakeFiles/main.dir/Image.cpp.o CMakeFiles/main.dir/main.cpp.o -o bin/main  /usr/lib64/libGL.so /usr/lib64/libglfw.so.3.3 -lrt -ldl 
